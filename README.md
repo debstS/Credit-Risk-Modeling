@@ -12,3 +12,6 @@ This project explores building a credit risk model to assess credit worthiness o
 2. Model Selection and training
 3. Model Evaluation
 4. Production pipeline to deploy on LIVE system
+
+
+Code notebook is inside the folder 'notebooks'. 
